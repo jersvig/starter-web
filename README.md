@@ -15,3 +15,6 @@ Sample website with plenty of files for demos
 ## Ko ko KO
 
 ## Bo bo bo
+
+
+## Copyright added
