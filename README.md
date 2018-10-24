@@ -24,3 +24,6 @@ Sample website with plenty of files for demos
 
 ## novi tekst
 rebase
+
+## novi novi tekst
+rebase2
