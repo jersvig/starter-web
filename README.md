@@ -27,3 +27,7 @@ rebase
 
 ## novi novi tekst
 rebase2
+
+## fix on fix
+
+fix
